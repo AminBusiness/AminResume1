@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amin Business</string>
+    <string name="title">AMIN ELHASAN</string>
+    <string name="work">WORK EXPERIENCE</string>
+    <string name="call">CALL</string>
+    <string name="Email">EMAIL</string>
+    <string name="WorkExperience">WORK EXPERIENCE</string>
+    <string name="Education">EDUCATION</string>
+    <string name="LearnMore">Learn More</string>
+    <string name="text2">In this program, you will focus on application and Web-based programming with experience in Web design. You will use industry-standard applications such as Microsoft’s Visual Studio and Android Studio. You’ll also learn to code HTML, CSS, JavaScript and SQL using the Microsoft .NET framework. You will learn to use a variety of programming languages, including Java (for Android programming) and C# to design, develop and maintain software applications to help businesses discover new opportunities and solve real-world problems.</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorAqua"
+    tools:context="com.example.amin_elhasan.resume1.Main3Activity">
+
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Education"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/rankena" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Why learn web design and app development at Ranken?"
+                android:textAlignment="center"
+                android:textColor="@color/colorStrawberry"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="In this program, you will focus on application and Web-based programming with experience in Web design. You will use industry-standard applications such as Microsoft’s Visual Studio and Android Studio. You’ll also learn to code HTML, CSS, JavaScript and SQL using the Microsoft .NET framework. You will learn to use a variety of programming languages, including Java (for Android programming) and C# to design, develop and maintain software applications to help businesses discover new opportunities and solve real-world problems."
+                android:textSize="19sp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="In Ranken’s Application and Web Development program, you will:"
+                android:textAlignment="center"
+                android:textColor="@color/colorStrawberry"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Complete a different real world project in each of the 4 semesters attended at Ranken. Learn web design and development using the latest versions of HTML, CSS, JavaScript, and modern JavaScript libraries. Use object-oriented programming principles and fundamentals to develop, troubleshoot and implement applications in Java and C#. Develop Web-based applications using traditional .NET framework, MVC.NET and .NET Web Services. Create data-driven Web-based applications that utilize T-SQL, stored procedures, LINQ and/or ADO.NET data access techniques."
+                android:textSize="19sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

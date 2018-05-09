@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#31A9B8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPetal">#F98866</color>
+    <color name="colorPoppy">#FF420E</color>
+    <color name="colorStem">#80BD9E</color>
+    <color name="colorBasil">#3F6C45</color>
+    <color name="colorStrawberry">#cb0000</color>
+    <color name="colorTomato">#CF3721</color>
+    <color name="colorAqua">#31A9B8</color>
+    <color name="colorLemon">#f5be41</color>
+</resources>
